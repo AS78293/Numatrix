@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnumacpp.a CMakeFiles/numacpp.dir/src/Vector1D.cpp.o
+/usr/bin/ranlib libnumacpp.a
