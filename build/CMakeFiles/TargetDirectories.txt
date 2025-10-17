@@ -1,4 +1,0 @@
-/Users/aahanshukla/Desktop/numpy-in-cpp/build/CMakeFiles/numacpp.dir
-/Users/aahanshukla/Desktop/numpy-in-cpp/build/CMakeFiles/test_vec.dir
-/Users/aahanshukla/Desktop/numpy-in-cpp/build/CMakeFiles/edit_cache.dir
-/Users/aahanshukla/Desktop/numpy-in-cpp/build/CMakeFiles/rebuild_cache.dir
