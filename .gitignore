@@ -1,0 +1,22 @@
+# build artifacts
+/build/
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.swp
+*.user
+
+# macOS system files
+.DS_Store
+
+# CMake intermediate files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
