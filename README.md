@@ -1,15 +1,15 @@
 # 🧮 Numatrix
 
 **Numatrix** is a lightweight numerical computing library built in modern **C++20**, inspired by Python’s **NumPy**.  
-It’s designed to be simple, modular, and educational — perfect for understanding how numerical libraries work under the hood.
+It’s my take on building a simple, modular, and educational project, which hopefully will help me understand how numerical libraries work under the hood.
 
 ---
 
 ## 🚀 Overview
 
-Numatrix provides high-level **array objects** with intuitive syntax for numerical operations, while maintaining **low-level performance** through contiguous memory layouts.
+I aim to build high-level **array objects** with intuitive syntax for numerical operations, while maintaining **low-level performance** through contiguous memory layouts.
 
-The project aims to gradually evolve from simple 1D vectors to full N-dimensional arrays, mimicking core NumPy functionality — but implemented from scratch in clean C++.
+I want to gradually evolve from simple 1D vectors to full N-dimensional arrays, mimicking core NumPy functionality, but implemented from scratch in clean C++.
 
 ---
 
